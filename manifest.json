@@ -1,8 +1,9 @@
 {
-  "name": "Coach Tracker — Samy",
+  "name": "Coach Tracker",
   "short_name": "Coach",
-  "description": "Tracker quotidien sport, nutrition et récupération",
-  "start_url": "/",
+  "description": "Tracker quotidien sport et nutrition",
+  "start_url": "/coach-tracker-/",
+  "scope": "/coach-tracker-/",
   "display": "standalone",
   "background_color": "#f5f5f3",
   "theme_color": "#E8621A",
